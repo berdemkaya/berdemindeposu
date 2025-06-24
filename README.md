@@ -51,8 +51,9 @@ Görselleştirme
 
 Gereksinimler
 Python 3.x (opsiyonel)
-Colab
-kaggle
-Matplotlib / Seaborn (görselleştirme için, opsiyonel)
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
 Berdem Nur Kaya
