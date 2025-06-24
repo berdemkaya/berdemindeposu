@@ -12,8 +12,8 @@ Hizmet kalitesi değerlendirmesi
 Makine öğrenmesi modelleri için öngörü oluşturma
 Veri analizi ve görselleştirme projeleri
 
-Dosya Formatı
-CSV (Comma-Separated Values)
+Dosya Formatı:
+CSV 
 
 Kolon Bilgileri 
 Customer_ID : Müşteri kimlik numarası
