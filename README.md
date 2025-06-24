@@ -42,6 +42,13 @@ import pandas as pd
 df = pd.read_csv('customer_experience_data (1).csv')
 print(df.head())
 
+Adımlar
+Verinin yüklenmesi ve genel ön incelemesi
+Eksik değerlerin analizi ve temizlenmesi
+Keşifsel veri analizi (EDA)
+Görselleştirme
+(Opsiyonel) Model geliştirme ve değerlendirme
+
 Gereksinimler
 Python 3.x (opsiyonel)
 Colab
