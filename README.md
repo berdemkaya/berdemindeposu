@@ -35,7 +35,6 @@ Retention_Status_Encoded = Durumun sayısal kodlaması
 Nasıl Kullanılır?
 CSV dosyasını uygun bir veri analiz aracı ile açabilirsiniz:
 Python (Pandas kütüphanesi)
-Kagggle
 Colab
 
 Örnek Python kodu:
